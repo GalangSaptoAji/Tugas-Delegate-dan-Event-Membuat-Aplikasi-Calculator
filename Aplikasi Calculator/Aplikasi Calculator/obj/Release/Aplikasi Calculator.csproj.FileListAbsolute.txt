@@ -1,0 +1,10 @@
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\bin\Release\Aplikasi Calculator.exe.config
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\bin\Release\Aplikasi Calculator.exe
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\bin\Release\Aplikasi Calculator.pdb
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi_Calculator.Calculator.resources
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi_Calculator.Form1.resources
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi_Calculator.Properties.Resources.resources
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi Calculator.csproj.GenerateResource.cache
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi Calculator.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi Calculator.exe
+E:\KULIAH\SEMESTER III\PEMROGRAMAN LANJUT\Tugas\Tugas Delegate dan Event\Aplikasi Calculator\Aplikasi Calculator\obj\Release\Aplikasi Calculator.pdb
